@@ -6,9 +6,9 @@ to arrive at some funny derivative of the original message by passing it through
 aims at finding groups of nodes that broadcast the same message to their neighbors.  <br>
 
 **The Chinese Whispers algorithm** <br>
-![](Chinese_Whispers_01.png) <br>
-** Clustering an 11-nodes graph with CW in 2 iterations** <br>
-![](Chinese_Whispers_02.png) <br>
+![](./data/Chinese_Whispers_01.png) <br>
+**Clustering an 11-nodes graph with CW in 2 iterations** <br>
+![](./data/Chinese_Whispers_02.png) <br>
 
 **Reference** <br>
 https://en.wikipedia.org/wiki/Chinese_Whispers_(clustering_method) <br>
