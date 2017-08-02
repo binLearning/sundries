@@ -11,3 +11,5 @@ Face Recognition, Center Loss + Seeta-Face + CASIA-Webface dataset.
 ![](./data/accuracy_1.6.png) <br>
 ![](./data/accuracy_1.7.png) <br>
 ![](./data/accuracy_1.8.png) <br>
+![](./data/accuracy_1.10.png) <br>
+![](./data/accuracy_1.11.png) <br>
