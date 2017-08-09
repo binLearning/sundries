@@ -1,4 +1,8 @@
-## [An Introduction to different Types of Convolutions in Deep Learning](https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d) <br>
+### [Convolution arithmetic tutorial](http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html)
+
+### [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
+
+### [An Introduction to different Types of Convolutions in Deep Learning](https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d)
 Let me give you a quick overview of different types of convolutions and what their benefits are. For the sake of simplicity, 
 I’m focussing on 2D convolutions only. <br>
 ### Convolutions
